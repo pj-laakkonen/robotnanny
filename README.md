@@ -5,15 +5,13 @@
 
 RobotNanny blocks / opens the mobile data in Finland and abroad at the set time
 
-Tech: 
-Python, Selenium
+- Tech: Python, Selenium
+- Mobile operator: https://elisa.fi/
 
-Mobile operator:
-https://elisa.fi/
+# My case
+- Used Task Scheduler: https://www.pythonanywhere.com
+- Blocks mobile data in the evening at 23 and opens it in the morning at 7
 
-Used Task Scheduler:
-https://www.pythonanywhere.com
-
-
+![drawing](pics/tasks.png)
 
 
