@@ -12,6 +12,5 @@ RobotNanny blocks / opens the mobile data in Finland and abroad at the set time
 - Used Task Scheduler: https://www.pythonanywhere.com
 - Blocks mobile data in the evening at 23 and opens it in the morning at 7
 
-![drawing](pics/tasks.png)
-
+![image](pics/tasks.png)
 
