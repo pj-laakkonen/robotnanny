@@ -11,7 +11,7 @@ Python, Selenium
 Mobile operator:
 https://elisa.fi/
 
-Task Scheduler:
+Used Task Scheduler:
 https://www.pythonanywhere.com
 
 
