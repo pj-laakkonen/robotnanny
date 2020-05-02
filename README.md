@@ -8,6 +8,7 @@ RobotNanny
 - sends an email as a reminder to go to bed
 
 Tech: Python, Selenium
+
 Mobile operator: https://elisa.fi/
 
 # My case
