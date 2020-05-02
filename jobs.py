@@ -17,7 +17,7 @@ def set_blocks(contract, bedtime):
             break
         except:
             print("Failure, try again!")
-            print("Wait " + waiting_time + " seconds...")
+            print("Wait " + str(waiting_time) + " seconds...")
             print("---------------------------------")
             time.sleep(waiting_time)
         i += 1

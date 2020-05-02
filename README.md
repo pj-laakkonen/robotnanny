@@ -1,10 +1,11 @@
 # https://github.com/pj-laakkonen/robotnanny
-# RobotNanny 0.1
+# RobotNanny 0.1.1
 # Author Petri Laakkonen
 # petri@laakkonen.io
 
-RobotNanny blocks / opens the mobile data in Finland and abroad at the set time
-
+RobotNanny
+- blocks / opens the mobile data in Finland and abroad at the set time
+- sends an email as a reminder to go to bed
 - Tech: Python, Selenium
 - Mobile operator: https://elisa.fi/
 
