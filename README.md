@@ -16,6 +16,7 @@ Mobile operator: https://elisa.fi/
 - Sends an email as a reminder to go to bed at 22:45 (19:45 GMT)
 - Blocks mobile data in the evening at 23 (20:00 GMT)
 - Blocks will be removed in the morning at 7 (04:00 GMT)
+- Note: Wifi will be also blocked at the same time with the Router app (Huawei HiLink)
 
 ![image](pics/tasks.png)
 
